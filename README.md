@@ -72,4 +72,4 @@ Order Service → http://localhost:8082/swagger-ui.html
 
 Bank Service → http://localhost:8083/swagger-ui/index.html#/
 
-//Delivery Service → http://localhost:8083/swagger-ui.html
+Delivery Service → http://localhost:8083/swagger-ui.html
